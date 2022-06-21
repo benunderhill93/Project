@@ -19,7 +19,7 @@ kombu==4.6.6
 localflavor==1.8
 more-itertools==7.2.0
 nltk==3.4.5
-numpy==1.17.4
+numpy==1.22.0
 pandas==0.25.3
 Pillow==6.2.1
 polib==1.1.0
